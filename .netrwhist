@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/leandro/cs140/assignment04'
+let g:netrw_dirhist_2='/home/leandro/cs140/assignment05'
+let g:netrw_dirhist_3='/usr/local/bin'
+let g:netrw_dirhist_4='/home/leandro/.vim'
