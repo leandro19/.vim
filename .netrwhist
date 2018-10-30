@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/leandro/cs140/assignment04'
-let g:netrw_dirhist_2='/home/leandro/cs140/assignment05'
-let g:netrw_dirhist_3='/usr/local/bin'
-let g:netrw_dirhist_4='/home/leandro/.vim'
-let g:netrw_dirhist_5='/import/linux/home1/lribeir1/.vim/bundle/vim-bracketed-paste/plugin'
-let g:netrw_dirhist_6='/import/linux/home1/lribeir1/.vim/bundle/vim-bracketed-paste'
-let g:netrw_dirhist_7='/import/linux/home1/lribeir1/.vim/bundle/vim-bracketed-paste/.git'
